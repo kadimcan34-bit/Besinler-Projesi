@@ -1,0 +1,7 @@
+{
+  "name": "TabakAnaliz AI",
+  "description": "Yemek tabağı analizi ve beslenme asistanı. Fotoğraf yükleyin, besin değerlerini öğrenin ve yapay zeka ile düzenleyin.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
